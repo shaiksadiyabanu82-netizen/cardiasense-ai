@@ -1,0 +1,9 @@
+{
+  "name": "CardiaSense AI: Heart Disease Prediction & Management",
+  "description": "A comprehensive clinical-grade cardiovascular risk assessment platform featuring dual dashboards, explainable AI, computer vision diagnostics, and emergency response integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
